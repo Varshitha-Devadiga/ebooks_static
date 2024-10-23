@@ -1,0 +1,6 @@
+*.scss
+node_modules
+.parcel-cache
+dist
+.Ds_store
+
