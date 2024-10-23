@@ -1,6 +1,4 @@
-<<<<<<
 # eBooks
-
 ## Development
 
 ### Pages
