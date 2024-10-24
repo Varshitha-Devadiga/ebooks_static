@@ -1,10 +1,9 @@
 *.scss
 node_modules
 .parcel-cache
-dist
 .Ds_store
 git add -f .parcel-cache
-git add -f dist
+
 git add -f node_modules
 
 
