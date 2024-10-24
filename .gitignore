@@ -7,4 +7,4 @@ git add -f .parcel-cache
 git add -f dist
 git add -f node_modules
 
-node_modules
+
